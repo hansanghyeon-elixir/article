@@ -1,0 +1,1 @@
+- [Erlang 핫 코드 업데이트의 활용 방법](https://news.hada.io/topic?id=17876)
